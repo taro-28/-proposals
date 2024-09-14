@@ -1,0 +1,7 @@
+{
+  "name": "proposals",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
